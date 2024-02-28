@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    float: left;
+    margin-left: -1.5rem;
+    margin-top: 1rem
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top:0;
+    background-color: #282c34;
+}

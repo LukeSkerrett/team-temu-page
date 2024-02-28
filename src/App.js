@@ -1,10 +1,12 @@
-import logo from './Temu-Logo.png';
+import logo from './Car.png';
+import Navbar from './Navbar';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <header className="App-header">
+  
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           The Fastest Car Ever. <br></br>
