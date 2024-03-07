@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.216e9e8d.css",
-    "main.js": "/static/js/main.090775cd.js",
+    "main.css": "/static/css/main.a9b1d76c.css",
+    "main.js": "/static/js/main.814d76cf.js",
     "static/js/453.7c79d0ce.chunk.js": "/static/js/453.7c79d0ce.chunk.js",
     "static/media/Car.png": "/static/media/Car.89cade6e38cff3d92d95.png",
-    "static/media/Temu-Logo.png": "/static/media/Temu-Logo.a2dcdd450cc8fd025605.png",
+    "static/media/video.mp4": "/static/media/video.96c508907dcff5faf07e.mp4",
     "index.html": "/index.html",
-    "main.216e9e8d.css.map": "/static/css/main.216e9e8d.css.map",
-    "main.090775cd.js.map": "/static/js/main.090775cd.js.map",
+    "main.a9b1d76c.css.map": "/static/css/main.a9b1d76c.css.map",
+    "main.814d76cf.js.map": "/static/js/main.814d76cf.js.map",
     "453.7c79d0ce.chunk.js.map": "/static/js/453.7c79d0ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.216e9e8d.css",
-    "static/js/main.090775cd.js"
+    "static/css/main.a9b1d76c.css",
+    "static/js/main.814d76cf.js"
   ]
 }
