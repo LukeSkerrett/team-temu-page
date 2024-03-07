@@ -7,9 +7,7 @@ function App() {
       <Navbar/>
       <header className="App-header">
 
-        <p>
-          Line Following Demonstration
-        </p>
+
         <video src={Video} width='700px' height='400px'controls>
         </video>
         <footer className='App-footer'>
