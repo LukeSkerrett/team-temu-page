@@ -1,19 +1,19 @@
-import logo from './Car.png';
 import Navbar from './Navbar';
 import './App.css';
+import Video from './video.mp4'
 function App() {
   return (
     <div className="App">
       <Navbar/>
       <header className="App-header">
-  
-        <img src={logo} className="App-logo" alt="logo" />
+
         <p>
-          The Fastest Car Ever. <br></br>
-          Team Temu
+          Line Following Demonstration
         </p>
+        <video src={Video} width='700px' height='400px'controls>
+        </video>
         <footer className='App-footer'>
-          Engineered by Kristopher Ngo, Luke Skerrett, Larisa Dummer, Gonzalo de Rojas
+          Engineered by Team Temu - Luke Skerrett, Larisa Dummer, Gonzalo de Rojas, Kristopher Ngo
         </footer>
       </header>
 

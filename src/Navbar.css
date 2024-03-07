@@ -1,7 +1,6 @@
 img{
-    width: 200px;
+    width: 125px;
     float: left;
-    margin-left: -1.5rem;
     margin-top: 1rem
 }
 nav{
@@ -12,3 +11,8 @@ nav{
     top:0;
     background-color: #282c34;
 }
+@media (prefers-reduced-motion: no-preference) {
+    img {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }

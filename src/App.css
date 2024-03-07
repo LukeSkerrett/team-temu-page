@@ -4,7 +4,7 @@
 }
 
 .App-logo {
-  width: 400px;
+  width: 100px;
   pointer-events: none;
   object-fit: cover;
 }
@@ -18,12 +18,13 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
+  display:flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-top: -150px;
 }
 
 .App-link {
@@ -37,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+footer{
+  font-size:2rem
+}
+p{
+  font-size: 3rem;
 }

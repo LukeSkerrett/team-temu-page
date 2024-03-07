@@ -1,4 +1,4 @@
-import logo from './Temu-Logo.png';
+import logo from './Car.png';
 import './Navbar.css'
 export default function Navbar () {
     return (
