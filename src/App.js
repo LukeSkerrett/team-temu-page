@@ -8,11 +8,7 @@ function App() {
       <header className="App-header">
         <video src={Video} width='700px' height='400px'controls>
         </video>
-        <footer className='App-footer'>
-          Engineered by Team Temu - Luke Skerrett, Larisa Dummer, Gonzalo de Rojas, Kristopher Ngo
-        </footer>
       </header>
-
     </div>
   );
 }

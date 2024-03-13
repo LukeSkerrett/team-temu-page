@@ -9,7 +9,7 @@ nav{
     align-items: center;
     position: sticky;
     top:0;
-    background-color: #282c34;
+    height: 7rem
 }
 @media (prefers-reduced-motion: no-preference) {
     img {
