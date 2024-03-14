@@ -1,16 +1,17 @@
-import Navbar from './components/Navbar/component';
+import {Route, Routes} from 'react-router'
+import Navbar from './components/Navbar';
+import Landing from './components/Landing'
+import Robot from './components/Robot'
 import './App.css';
-import Video from './assets/video.mp4'
 function App() {
   return (
     <div className="App">
       <Navbar/>
-      <header className="App-header">
-        <video src={Video} width='700px' height='400px'controls>
-        </video>
-      </header>
+      <Routes>
+        <Route path='/' element= {<Landing/>} />
+        <Route path='/robot' element={<Robot/>} />
+      </Routes>
     </div>
   );
 }
-
 export default App;
