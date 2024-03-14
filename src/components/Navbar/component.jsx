@@ -8,20 +8,14 @@ export default function Navbar () {
                 <a href='https://www.temu.com/'> <img src = {Temu} alt='temu logo' className='Logo'></img> </a>
                 <ul>
                     <li>
-                    <Link to ='/' className='link'>
-                            Building
-                    </Link>
-                    </li>
-
-                    <li>
                         <Link to ='/robot' className='link'>
-                            Final Robot
+                            Robot Progression
                         </Link>
                     </li>
 
                     <li>
                         <Link to ='/' className='link'>
-                           Competetion Day 
+                           Competition Day 
                         </Link>
                     </li>
 
