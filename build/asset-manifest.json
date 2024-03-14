@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.01c09bda.css",
-    "main.js": "/static/js/main.7b3a6711.js",
+    "main.js": "/static/js/main.ce18eaeb.js",
     "static/media/FinalCar.png": "/static/media/FinalCar.8b97bc7bee6024ce8ef6.png",
     "static/media/Temu-Logo.png": "/static/media/Temu-Logo.a2dcdd450cc8fd025605.png",
     "index.html": "/index.html",
     "main.01c09bda.css.map": "/static/css/main.01c09bda.css.map",
-    "main.7b3a6711.js.map": "/static/js/main.7b3a6711.js.map"
+    "main.ce18eaeb.js.map": "/static/js/main.ce18eaeb.js.map"
   },
   "entrypoints": [
     "static/css/main.01c09bda.css",
-    "static/js/main.7b3a6711.js"
+    "static/js/main.ce18eaeb.js"
   ]
 }
