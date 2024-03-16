@@ -10,7 +10,7 @@ export default function Landing() {
                 Team Temu
                 <br></br>
                 <br></br>
-                ECE 5
+                Team 6
                 <footer>Hosted on  <a href='https://github.com/LukeSkerrett/team-temu-page' target='_blank' rel='noreferrer'> Github <FaGithub/></a></footer>
             </div>
             <div className='right'> 
