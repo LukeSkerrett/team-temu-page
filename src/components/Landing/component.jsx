@@ -16,6 +16,7 @@ export default function Landing() {
             <div className='right'> 
                 Meet the Team
                 <img src={Team} alt='Team' className='team--picture'></img>
+                <br></br>
                 <span>Gonzalo de Rojas, Kris Ngo, Luke Skerrett, Larisa Dummer</span>
             </div>
         </div>
