@@ -1,0 +1,23 @@
+.competition{
+    display:flex;   
+}
+
+.left, .right{
+    flex: 1;
+    width:50%
+}
+
+video{
+    margin-top: 6rem;
+}
+main{
+    margin-top: -2.5rem;
+    font-size: 2rem;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 1.5rem;
+}
+

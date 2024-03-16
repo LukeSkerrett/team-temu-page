@@ -11,11 +11,23 @@ nav{
     position: sticky;
 
 }
+nav ul{
+  display: flex;
+  align-items: center;
+  padding:0;
+}
+
 nav ul li{
   list-style-type: none;
   font-size: 1.5rem !important;
-  display: inline;
-  margin-right: 4rem;
+  display: flex;
+  align-items: center;
+  margin-right: 2rem;
+}
+nav ul li:not(:last-child)::after {
+  content: "|";
+  margin-left: 2rem; /* Space between the navbar item and the bar */
+  color: black; /* Match the color of your text or adjust as needed */
 }
 .link{
   text-decoration:none;

@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d652e73.css",
-    "main.js": "/static/js/main.70371022.js",
+    "main.css": "/static/css/main.161c602a.css",
+    "main.js": "/static/js/main.f7e4e1cb.js",
     "static/media/Car.png": "/static/media/Car.89cade6e38cff3d92d95.png",
+    "static/media/Loop.mp4": "/static/media/Loop.908d85ad729e393a3445.mp4",
     "static/media/FinalCar.png": "/static/media/FinalCar.8b97bc7bee6024ce8ef6.png",
+    "static/media/Team.jpg": "/static/media/Team.6adea1698419e92f2ecf.jpg",
+    "static/media/poster.jpg": "/static/media/poster.b57d281a04fb3b4b3f54.jpg",
+    "static/media/Blocks.png": "/static/media/Blocks.55d543b5e665bc357341.png",
     "static/media/Temu-Logo.png": "/static/media/Temu-Logo.a2dcdd450cc8fd025605.png",
     "static/media/arrow.png": "/static/media/arrow.ab25abc22fa4cd90905f.png",
     "index.html": "/index.html",
-    "main.0d652e73.css.map": "/static/css/main.0d652e73.css.map",
-    "main.70371022.js.map": "/static/js/main.70371022.js.map"
+    "main.161c602a.css.map": "/static/css/main.161c602a.css.map",
+    "main.f7e4e1cb.js.map": "/static/js/main.f7e4e1cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d652e73.css",
-    "static/js/main.70371022.js"
+    "static/css/main.161c602a.css",
+    "static/js/main.f7e4e1cb.js"
   ]
 }
